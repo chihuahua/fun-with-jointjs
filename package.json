@@ -1,0 +1,29 @@
+{
+  "name": "fun-with-jointjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "dependencies": {
+    "backbone": "1.3.3",
+    "dagre": "0.7.4",
+    "graphlib": "1.0.7",
+    "jquery": "3.1.1",
+    "lodash": "3.10.1"
+  },
+  "devDependencies": {
+    "jointjs": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihuahua/fun-with-jointjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihuahua/fun-with-jointjs/issues"
+  },
+  "homepage": "https://github.com/chihuahua/fun-with-jointjs#readme"
+}

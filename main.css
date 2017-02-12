@@ -1,0 +1,8 @@
+#graph-area {
+  border: 1px solid #000;
+  display: inline-block;
+}
+
+.marker-arrowhead[end=source] {
+  display: none;
+}
