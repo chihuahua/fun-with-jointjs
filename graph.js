@@ -142,3 +142,5 @@ var paper = new joint.dia.Paper({
 n0 = makeNode(graph, 'a', 100, 200);
 n1 = makeNode(graph, 'b', 400, 200);
 makeLink(graph, n0, n1);
+
+joint.layout.DirectedGraph.layout(graph, { setLinkVertices: false });
